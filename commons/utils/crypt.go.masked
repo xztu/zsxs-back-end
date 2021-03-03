@@ -1,0 +1,21 @@
+/*
+   @Time : 2021/2/21 5:05 下午
+   @Author : ShadowWalker
+   @Email : master@rebeta.cn
+   @File : crypt
+   @Description: 加密解密工具
+*/
+
+package utils
+
+// EncryptPassword 加密密码
+func EncryptPassword(password string) string {
+	// 为保障数据安全, 密码的加密算法不进行公开
+	return password
+}
+
+// DecryptPassword 解密密码
+func DecryptPassword(password string) string {
+	// 为保障数据安全, 密码的解密算法不进行公开
+	return password
+}
